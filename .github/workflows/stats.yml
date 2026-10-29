@@ -16,6 +16,7 @@ jobs:
       - uses: nkunze2306/github-achievements-by-niounze@v9
         with:
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          wakatime-key: ${{ secrets.WAKATIME_API_KEY }}
           components: stats,achievements,dashboard,road
           output-dir: .
           timezone: Europe/Berlin
