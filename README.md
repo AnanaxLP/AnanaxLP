@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Meine GitHub-Statistik](stats.svg)
 
 <!--
 **AnanaxLP/AnanaxLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
