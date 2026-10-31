@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: nkunze2306/github-achievements-by-niounze@v9
+      - uses: nkunze2306/github-achievements-by-niounze@stable
         with:
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           wakatime-key: ${{ secrets.WAKATIME_API_KEY }}
