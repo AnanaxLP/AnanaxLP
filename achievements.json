@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-31T15:26:31.271Z",
+ "updated": "2026-10-31T18:09:29.431Z",
  "login": "AnanaxLP",
- "unlocked": 44,
+ "unlocked": 45,
  "total": 134,
- "achievementsUnlocked": 21,
+ "achievementsUnlocked": 22,
  "achievementsTotal": 35,
  "highlights": [
   "coding-time",
@@ -18,23 +18,23 @@
   "issuesClosed": 8,
   "prsMerged": 35,
   "ownRepos": 5,
-  "stars": 0,
+  "stars": 1,
   "forks": 0,
-  "maxRepoStars": 0,
+  "maxRepoStars": 1,
   "foreignRepos": 5,
-  "commits": 245,
+  "commits": 246,
   "nightCommits": 22,
   "earlyCommits": 1,
-  "weekendCommits": 69,
+  "weekendCommits": 70,
   "aiCommits": 72,
-  "linesAdded": 251220,
+  "linesAdded": 252478,
   "linesDeleted": 9824,
-  "handLines": 86672,
+  "handLines": 87930,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 14,
-  "topLanguageLines": 170672,
+  "topLanguageLines": 171517,
   "maxCommitsPerDay": 34,
   "activeDays": 109,
   "longestStreak": 11,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 245,
+   "value": 246,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.49
+   "progress": 0.492
   },
   {
    "id": "streak-keeper",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 69,
+   "value": 70,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.69
+   "progress": 0.7
   },
   {
    "id": "commit-storm",
@@ -638,7 +638,7 @@
    "unit": "stars",
    "format": null,
    "description": "Stars on your own repos",
-   "value": 0,
+   "value": 1,
    "tiers": [
     1,
     10,
@@ -646,10 +646,10 @@
     250,
     1000
    ],
-   "level": 0,
-   "next": 1,
+   "level": 1,
+   "next": 10,
    "maxed": false,
-   "progress": 0
+   "progress": 0.1
   },
   {
    "id": "forked",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 251220,
+   "value": 252478,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.50244
+   "progress": 0.504956
   },
   {
    "id": "refactorer",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 170672,
+   "value": 171517,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.682688
+   "progress": 0.686068
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 86672,
+   "value": 87930,
    "tiers": [
     10000,
     50000,
@@ -1002,7 +1002,7 @@
    "level": 2,
    "next": 100000,
    "maxed": false,
-   "progress": 0.86672
+   "progress": 0.8793
   },
   {
    "id": "pair-programmer",
@@ -1455,14 +1455,14 @@
    "unit": "stars",
    "format": null,
    "description": "A single repo with 1,000 stars",
-   "value": 0,
+   "value": 1,
    "tiers": [
     1000
    ],
    "level": 0,
    "next": 1000,
    "maxed": false,
-   "progress": 0
+   "progress": 0.001
   },
   {
    "id": "babel",
