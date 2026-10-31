@@ -410,7 +410,7 @@ function render(d) {
     ${card('c4', 'By weekday', 'yellow', `Peak: ${DAYS[wpeak].slice(0, 3)}`, `<div class="cols" style="--c:var(--green)">${wd}</div><div class="axis">${'MTWTFSS'.split('').map((x) => `<span>${x}</span>`).join('')}</div>`)}
     ${card('c8', 'By hour of day', 'purple', `Peak ${String(hpeak).padStart(2, '0')}:00 · ${mood}`, `<div class="cols thin">${hh}</div><div class="axis thin">${hAxis}</div>`)}
   </div>
-  <footer>Updated ${upd} · generated automatically by GitHub Actions</footer>`;
+  <footer>Updated ${upd} · generated automatically by GitHub Actions &middot; Pretty GitHub Profile by <a href="https://github.com/nkunze2306/github-achievements-by-niounze" style="color:inherit">niounze</a></footer>`;
 
   document.addEventListener('click', (e) => {
     const b = e.target.closest && e.target.closest('[data-year]');
@@ -552,6 +552,11 @@ async function themeConfig() {
   } else {
     if (/(^|[#?&])settings\b/.test(location.hash + location.search)) ls('tlOwner', '1');
     isOwner = ls('tlOwner') === '1';
+    if (!isOwner) {
+      // without the OAuth login there is still a way in: one click marks this browser as owner (applying a change is only ever done for the repo owner, see apply-theme.yml)
+      const f = document.querySelector('footer');
+      if (f) { f.insertAdjacentHTML('beforeend', ' � <a href="#settings" id="tlOpenLink" style="color:inherit">Customize</a>'); f.querySelector('#tlOpenLink').onclick = (e) => { e.preventDefault(); ls('tlOwner', '1'); location.reload(); }; }
+    }
   }
   if (!isOwner) return;
   if (viaLogin) ls('tlOwner', null); // alter Geräte-Merker wird mit der Anmeldung überflüssig

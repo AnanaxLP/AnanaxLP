@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T13:59:31.236Z",
+ "updated": "2026-10-31T15:26:31.271Z",
  "login": "AnanaxLP",
- "unlocked": 56,
+ "unlocked": 44,
  "total": 134,
  "achievementsUnlocked": 21,
  "achievementsTotal": 35,
@@ -22,19 +22,19 @@
   "forks": 0,
   "maxRepoStars": 0,
   "foreignRepos": 5,
-  "commits": 244,
+  "commits": 245,
   "nightCommits": 22,
   "earlyCommits": 1,
-  "weekendCommits": 68,
+  "weekendCommits": 69,
   "aiCommits": 72,
-  "linesAdded": 4284794,
-  "linesDeleted": 1383866,
-  "handLines": 4071790,
+  "linesAdded": 251220,
+  "linesDeleted": 9824,
+  "handLines": 86672,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 14,
-  "topLanguageLines": 2910979,
+  "topLanguageLines": 170672,
   "maxCommitsPerDay": 34,
   "activeDays": 109,
   "longestStreak": 11,
@@ -43,7 +43,7 @@
   "monsterPRs": 7,
   "cleanSweeps": 1,
   "quickdraws": 8,
-  "wakaHours": 132.74722222222223,
+  "wakaHours": 133.5222222222222,
   "marathonHours": 3.553611111111111,
   "consistentDays": 6
  },
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 244,
+   "value": 245,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.488
+   "progress": 0.49
   },
   {
    "id": "streak-keeper",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 68,
+   "value": 69,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.68
+   "progress": 0.69
   },
   {
    "id": "commit-storm",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 4284794,
+   "value": 251220,
    "tiers": [
     1000,
     10000,
@@ -776,17 +776,17 @@
     5000000,
     10000000
    ],
-   "level": 6,
-   "next": 5000000,
+   "level": 4,
+   "next": 500000,
    "maxed": false,
-   "progress": 0.8569588
+   "progress": 0.50244
   },
   {
    "id": "refactorer",
    "name": "Refactorer",
    "group": "craft",
    "legendary": false,
-   "color": "#ffd34e",
+   "color": "#ff5c9a",
    "icon": {
     "rows": [
      "............",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 1383866,
+   "value": 9824,
    "tiers": [
     1000,
     5000,
@@ -821,10 +821,10 @@
     500000,
     1000000
    ],
-   "level": 7,
-   "next": null,
-   "maxed": true,
-   "progress": 1
+   "level": 2,
+   "next": 10000,
+   "maxed": false,
+   "progress": 0.9824
   },
   {
    "id": "polyglot",
@@ -875,7 +875,7 @@
    "name": "Deep Diver",
    "group": "craft",
    "legendary": false,
-   "color": "#ffd34e",
+   "color": "#ff5c9a",
    "icon": {
     "rows": [
      ".....cc.....",
@@ -901,17 +901,17 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 2910979,
+   "value": 170672,
    "tiers": [
     10000,
     50000,
     100000,
     250000
    ],
-   "level": 4,
-   "next": null,
-   "maxed": true,
-   "progress": 1
+   "level": 3,
+   "next": 250000,
+   "maxed": false,
+   "progress": 0.682688
   },
   {
    "id": "repo-builder",
@@ -961,7 +961,7 @@
    "name": "Hand-Crafted",
    "group": "craft",
    "legendary": false,
-   "color": "#ffd34e",
+   "color": "#ff5c9a",
    "icon": {
     "rows": [
      "..........pp",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 4071790,
+   "value": 86672,
    "tiers": [
     10000,
     50000,
@@ -999,10 +999,10 @@
     500000,
     1000000
    ],
-   "level": 6,
-   "next": null,
-   "maxed": true,
-   "progress": 1
+   "level": 2,
+   "next": 100000,
+   "maxed": false,
+   "progress": 0.86672
   },
   {
    "id": "pair-programmer",
@@ -1079,7 +1079,7 @@
    "unit": "tracked",
    "format": "hours",
    "description": "Coding time tracked by WakaTime",
-   "value": 132.74722222222223,
+   "value": 133.5222222222222,
    "tiers": [
     10,
     50,
@@ -1092,7 +1092,7 @@
    "level": 3,
    "next": 500,
    "maxed": false,
-   "progress": 0.2654944444444445
+   "progress": 0.2670444444444444
   },
   {
    "id": "marathon",
@@ -1534,14 +1534,14 @@
    "unit": "maxed",
    "format": null,
    "description": "Every other achievement on its highest level",
-   "value": 5,
+   "value": 2,
    "tiers": [
     34
    ],
    "level": 0,
    "next": 34,
    "maxed": false,
-   "progress": 0.14705882352941177
+   "progress": 0.058823529411764705
   }
  ],
  "groups": {
