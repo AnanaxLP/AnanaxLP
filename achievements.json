@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T06:58:47.973Z",
+ "updated": "2026-11-01T14:00:38.797Z",
  "login": "AnanaxLP",
- "unlocked": 45,
+ "unlocked": 46,
  "total": 134,
  "achievementsUnlocked": 22,
  "achievementsTotal": 35,
@@ -15,28 +15,28 @@
  ],
  "metrics": {
   "followers": 1,
-  "issuesClosed": 8,
-  "prsMerged": 35,
+  "issuesClosed": 9,
+  "prsMerged": 36,
   "ownRepos": 5,
   "stars": 1,
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 5,
-  "commits": 246,
+  "commits": 249,
   "nightCommits": 22,
   "earlyCommits": 1,
-  "weekendCommits": 70,
-  "aiCommits": 72,
-  "linesAdded": 252478,
-  "linesDeleted": 9824,
+  "weekendCommits": 72,
+  "aiCommits": 74,
+  "linesAdded": 253849,
+  "linesDeleted": 10120,
   "handLines": 87930,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 14,
-  "topLanguageLines": 171516,
+  "topLanguageLines": 172084,
   "maxCommitsPerDay": 34,
-  "activeDays": 109,
+  "activeDays": 110,
   "longestStreak": 11,
   "reviews": 12,
   "foreignMergedPRs": 33,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 246,
+   "value": 249,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.492
+   "progress": 0.498
   },
   {
    "id": "streak-keeper",
@@ -171,7 +171,7 @@
    "unit": "active days",
    "format": null,
    "description": "Days with at least one contribution",
-   "value": 109,
+   "value": 110,
    "tiers": [
     25,
     100,
@@ -182,7 +182,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.436
+   "progress": 0.44
   },
   {
    "id": "night-owl",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 70,
+   "value": 72,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.7
+   "progress": 0.72
   },
   {
    "id": "commit-storm",
@@ -380,7 +380,7 @@
    "unit": "merged PRs",
    "format": null,
    "description": "Merged pull requests",
-   "value": 35,
+   "value": 36,
    "tiers": [
     1,
     10,
@@ -391,7 +391,7 @@
    "level": 2,
    "next": 50,
    "maxed": false,
-   "progress": 0.7
+   "progress": 0.72
   },
   {
    "id": "reviewer",
@@ -468,7 +468,7 @@
    "unit": "closed issues",
    "format": null,
    "description": "Issues you opened that were closed",
-   "value": 8,
+   "value": 9,
    "tiers": [
     5,
     25,
@@ -478,7 +478,7 @@
    "level": 1,
    "next": 25,
    "maxed": false,
-   "progress": 0.32
+   "progress": 0.36
   },
   {
    "id": "team-player",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 252478,
+   "value": 253849,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.504956
+   "progress": 0.507698
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 9824,
+   "value": 10120,
    "tiers": [
     1000,
     5000,
@@ -821,10 +821,10 @@
     500000,
     1000000
    ],
-   "level": 2,
-   "next": 10000,
+   "level": 3,
+   "next": 50000,
    "maxed": false,
-   "progress": 0.9824
+   "progress": 0.2024
   },
   {
    "id": "polyglot",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 171516,
+   "value": 172084,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.686064
+   "progress": 0.688336
   },
   {
    "id": "repo-builder",
@@ -1036,7 +1036,7 @@
    "unit": "AI commits",
    "format": null,
    "description": "Commits with an AI co-author",
-   "value": 72,
+   "value": 74,
    "tiers": [
     10,
     50,
@@ -1046,7 +1046,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.288
+   "progress": 0.296
   },
   {
    "id": "coding-time",
