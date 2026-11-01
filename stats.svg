@@ -117,7 +117,7 @@
 <rect x="23" y="825" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="825" width="6" height="6" rx="3" fill="#b794ff"/>
 <line x1="23" y1="840" x2="190.8" y2="840" stroke="#262626"/>
 <text x="23" y="859" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">Comments written</text>
-<text x="190.8" y="859" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">55</text>
+<text x="190.8" y="859" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">56</text>
 <rect x="224.8" y="655" width="494.2" height="214" rx="16" fill="#121212" stroke="#262626"/>
 <text x="246.8" y="685" font-size="11" fill="#b794ff" font-weight="700" text-anchor="start" letter-spacing="1.1">241 CONTRIBUTIONS IN THE LAST YEAR</text>
 <text x="600" y="685" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">Less</text>
@@ -620,12 +620,12 @@
 <text x="407.88" y="1561" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">9</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> own</tspan><tspan font-size="32" font-weight="700" fill="#ffffff" dx="26">5</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> contributed to</tspan></text>
 <rect x="1" y="1609" width="353" height="190" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="1639" font-size="11" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="1.1">LANGUAGES · BY CODE</text><text x="332" y="1639" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="end">Top: Dart</text>
-<rect x="23" y="1661" width="200.86947229181132" height="11" rx="5.5" fill="#00B4AB"/>
-<rect x="227.86947229181132" y="1661" width="61.53277920262576" height="11" rx="5.5" fill="#7355dd"/>
-<rect x="293.4022514944371" y="1661" width="12.215492506919103" height="11" rx="5.5" fill="#e34c26"/>
-<rect x="309.6177440013562" y="1661" width="7.977422786395017" height="11" rx="5.5" fill="#8b949e"/>
-<rect x="321.5951667877512" y="1661" width="6" height="11" rx="5.5" fill="#f1e05a"/>
-<rect x="331.5951667877512" y="1661" width="6" height="11" rx="5.5" fill="#aace60"/>
+<rect x="23" y="1661" width="200.86939337709006" height="11" rx="5.5" fill="#00B4AB"/>
+<rect x="227.86939337709006" y="1661" width="61.53275502850879" height="11" rx="5.5" fill="#7355dd"/>
+<rect x="293.40214840559884" y="1661" width="12.215601246052069" height="11" rx="5.5" fill="#e34c26"/>
+<rect x="309.6177496516509" y="1661" width="7.977419652339412" height="11" rx="5.5" fill="#8b949e"/>
+<rect x="321.5951693039903" y="1661" width="6" height="11" rx="5.5" fill="#f1e05a"/>
+<rect x="331.5951693039903" y="1661" width="6" height="11" rx="5.5" fill="#aace60"/>
 <circle cx="27" cy="1705" r="4.5" fill="#00B4AB"/>
 <text x="38" y="1709" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">Dart</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  70%</tspan></text>
 <circle cx="181.5" cy="1705" r="4.5" fill="#7355dd"/>
