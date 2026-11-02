@@ -1,4 +1,3 @@
-## Hi there 👋
 [![Meine GitHub-Statistik](stats.svg)](https://ananaxlp.github.io/AnanaxLP/)
 
 <!--
