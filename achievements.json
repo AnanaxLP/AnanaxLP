@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:32:34.464Z",
+ "updated": "2026-11-02T01:58:52.166Z",
  "login": "AnanaxLP",
  "unlocked": 46,
  "total": 134,
@@ -34,7 +34,7 @@
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 14,
-  "topLanguageLines": 172959,
+  "topLanguageLines": 172921,
   "maxCommitsPerDay": 34,
   "activeDays": 110,
   "longestStreak": 11,
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 172959,
+   "value": 172921,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.691836
+   "progress": 0.691684
   },
   {
    "id": "repo-builder",
