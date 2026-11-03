@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:57:43.072Z",
+ "updated": "2026-11-03T01:28:00.781Z",
  "login": "AnanaxLP",
  "unlocked": 46,
  "total": 134,
@@ -16,13 +16,13 @@
  "metrics": {
   "followers": 1,
   "issuesClosed": 9,
-  "prsMerged": 38,
+  "prsMerged": 39,
   "ownRepos": 5,
   "stars": 1,
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 5,
-  "commits": 261,
+  "commits": 263,
   "nightCommits": 22,
   "earlyCommits": 1,
   "weekendCommits": 74,
@@ -38,9 +38,9 @@
   "maxCommitsPerDay": 34,
   "activeDays": 111,
   "longestStreak": 11,
-  "reviews": 14,
-  "foreignMergedPRs": 35,
-  "monsterPRs": 9,
+  "reviews": 15,
+  "foreignMergedPRs": 36,
+  "monsterPRs": 10,
   "cleanSweeps": 1,
   "quickdraws": 8,
   "wakaHours": 134.80972222222223,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 261,
+   "value": 263,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.522
+   "progress": 0.526
   },
   {
    "id": "streak-keeper",
@@ -380,7 +380,7 @@
    "unit": "merged PRs",
    "format": null,
    "description": "Merged pull requests",
-   "value": 38,
+   "value": 39,
    "tiers": [
     1,
     10,
@@ -391,7 +391,7 @@
    "level": 2,
    "next": 50,
    "maxed": false,
-   "progress": 0.76
+   "progress": 0.78
   },
   {
    "id": "reviewer",
@@ -425,7 +425,7 @@
    "unit": "reviews",
    "format": null,
    "description": "Pull requests you reviewed",
-   "value": 14,
+   "value": 15,
    "tiers": [
     5,
     25,
@@ -435,7 +435,7 @@
    "level": 1,
    "next": 25,
    "maxed": false,
-   "progress": 0.56
+   "progress": 0.6
   },
   {
    "id": "issue-hunter",
@@ -555,7 +555,7 @@
    "unit": "merged PRs",
    "format": null,
    "description": "Merged pull requests in repos you do not own",
-   "value": 35,
+   "value": 36,
    "tiers": [
     1,
     5,
@@ -565,7 +565,7 @@
    "level": 3,
    "next": 100,
    "maxed": false,
-   "progress": 0.35
+   "progress": 0.36
   },
   {
    "id": "quickdraw",
@@ -1337,7 +1337,7 @@
    "unit": "huge PRs",
    "format": null,
    "description": "A merged PR with more than 5,000 changed lines",
-   "value": 9,
+   "value": 10,
    "tiers": [
     1
    ],
