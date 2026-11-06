@@ -17,11 +17,11 @@
 <text x="295.34999999999997" y="127" font-size="12.5" text-anchor="middle"><tspan fill="#fff" font-weight="700">1</tspan><tspan fill="#9a9a9a"> followers</tspan></text>
 <rect x="1" y="163" width="180.44" height="232" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="193" font-size="11" fill="#34f5a0" font-weight="700" text-anchor="start" letter-spacing="1.1">COMMITS</text>
-<text x="23" y="265" font-size="48" fill="#ffffff" font-weight="800" text-anchor="start">317</text>
-<text x="23" y="289" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="start">269 in last 12 mo.</text>
+<text x="23" y="265" font-size="48" fill="#ffffff" font-weight="800" text-anchor="start">321</text>
+<text x="23" y="289" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="start">273 in last 12 mo.</text>
 <line x1="23" x2="159.44" y1="313" y2="313" stroke="#262626"/>
 <text x="23" y="341" font-size="9.5" fill="#6a6a6a" font-weight="700" text-anchor="start" letter-spacing="1">TOTAL CONTRIBUTIONS</text>
-<text x="23" y="371" font-size="26" fill="#ffffff" font-weight="700" text-anchor="start">417</text>
+<text x="23" y="371" font-size="26" fill="#ffffff" font-weight="700" text-anchor="start">423</text>
 <rect x="193.44" y="163" width="277.6" height="232" rx="16" fill="#121212" stroke="#262626"/>
 <text x="215.44" y="193" font-size="11" fill="#ff5c9a" font-weight="700" text-anchor="start" letter-spacing="1.1">LINES OF CODE</text><text x="449.04" y="193" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="end">net +290k</text>
 <text x="215.44" y="245" text-anchor="start"><tspan font-size="32" font-weight="800" fill="#34f5a0">+306k</tspan><tspan font-size="32" font-weight="800" fill="#ff5c9a" dx="18">−16k</tspan></text>
@@ -117,37 +117,37 @@
 <rect x="303.66666666666663" y="706" width="154.66666666666669" height="5" rx="2.5" fill="#2a2a2a"/><rect x="303.66666666666663" y="706" width="40.86602666666667" height="5" rx="2.5" fill="#ff5c9a"/>
 <text x="303.66666666666663" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="start">13k / 50k lines</text><text x="458.3333333333333" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">26%</text>
 <rect x="478.3333333333333" y="675" width="224.66666666666666" height="62" rx="13" fill="#19211a" stroke="#3fb950" stroke-opacity="1" stroke-width="1.3"/><path d="M484.3333333333333 681h5v1.4h-5zM484.3333333333333 681v5h1.4v-5zM697 681h-5v1.4h5zM697 681v5h-1.4v-5zM484.3333333333333 731h5v-1.4h-5zM484.3333333333333 731v-5h1.4v5zM697 731h-5v-1.4h5zM697 731v-5h-1.4v5z" fill="#3fb950" fill-opacity="0.85"/>
-<circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#2a2a2a" stroke-width="5"/><circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#34f5a0" stroke-width="5" stroke-linecap="round" stroke-dasharray="64.3 106.8" stroke-dashoffset="0.0" transform="rotate(-90 507.3333333333333 706)"/>
+<circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#2a2a2a" stroke-width="5"/><circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#34f5a0" stroke-width="5" stroke-linecap="round" stroke-dasharray="65.2 106.8" stroke-dashoffset="0.0" transform="rotate(-90 507.3333333333333 706)"/>
 <g shape-rendering="crispEdges"><rect x="504.66" y="701.98" width="5.38" height="1.37" fill="#ff5c5c"/><rect x="503.32" y="703.32" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="703.32" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="703.32" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="499.30" y="704.66" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="501.98" y="704.66" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="704.66" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="704.66" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="512.69" y="704.66" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="499.30" y="706.00" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="501.98" y="706.00" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="706.00" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="706.00" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="512.69" y="706.00" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="503.32" y="707.34" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="707.34" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="707.34" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="708.68" width="5.38" height="1.37" fill="#ff5c5c"/></g><circle cx="519.9" cy="718.6" r="6.5" fill="#0b0b0b" stroke="#34f5a0" stroke-width="1.3"/><text x="519.9133333333333" y="721.98" font-size="9" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
 <text x="534.3333333333333" y="697" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="start">Committer</text>
 <rect x="644" y="684" width="45" height="17" rx="8.5" fill="#34f5a0" fill-opacity="0.11" stroke="#34f5a0" stroke-opacity="0.5"/><text x="666.5" y="696" font-size="9.5" fill="#34f5a0" font-weight="700" text-anchor="middle">2 / 6</text>
-<rect x="534.3333333333333" y="706" width="154.66666666666674" height="5" rx="2.5" fill="#2a2a2a"/><rect x="534.3333333333333" y="706" width="93.10933333333338" height="5" rx="2.5" fill="#34f5a0"/>
-<text x="534.3333333333333" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="start">301 / 500 commits</text><text x="689" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">60%</text>
+<rect x="534.3333333333333" y="706" width="154.66666666666674" height="5" rx="2.5" fill="#2a2a2a"/><rect x="534.3333333333333" y="706" width="94.3466666666667" height="5" rx="2.5" fill="#34f5a0"/>
+<text x="534.3333333333333" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="start">305 / 500 commits</text><text x="689" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">61%</text>
 <rect x="214" y="751" width="292" height="26" rx="13" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.6"/>
 <text x="360" y="768.5" font-size="11.5" fill="#38bdf8" font-weight="700" text-anchor="middle">See all 35 achievements on the website  →</text>
 <rect x="1" y="809" width="211.8" height="214" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="839" font-size="11" fill="#34f5a0" font-weight="700" text-anchor="start" letter-spacing="1.1">CONTRIBUTIONS</text>
 <circle cx="27" cy="867" r="4.5" fill="#34f5a0"/>
 <text x="38" y="871" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">Commits</text>
-<text x="190.8" y="871" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">317 · 76%</text>
-<rect x="23" y="880" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="880" width="127.5601918465228" height="6" rx="3" fill="#34f5a0"/>
+<text x="190.8" y="871" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">321 · 76%</text>
+<rect x="23" y="880" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="880" width="127.33758865248228" height="6" rx="3" fill="#34f5a0"/>
 <circle cx="27" cy="900" r="4.5" fill="#38bdf8"/>
 <text x="38" y="904" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">Pull requests</text>
-<text x="190.8" y="904" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">50 · 12%</text>
-<rect x="23" y="913" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="913" width="20.11990407673861" height="6" rx="3" fill="#38bdf8"/>
+<text x="190.8" y="904" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">52 · 12%</text>
+<rect x="23" y="913" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="913" width="20.62789598108747" height="6" rx="3" fill="#38bdf8"/>
 <circle cx="27" cy="933" r="4.5" fill="#ff5c9a"/>
 <text x="38" y="937" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">Issues</text>
 <text x="190.8" y="937" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">32 · 8%</text>
-<rect x="23" y="946" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="946" width="12.87673860911271" height="6" rx="3" fill="#ff5c9a"/>
+<rect x="23" y="946" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="946" width="12.694089834515367" height="6" rx="3" fill="#ff5c9a"/>
 <circle cx="27" cy="966" r="4.5" fill="#b794ff"/>
 <text x="38" y="970" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">Code review</text>
 <text x="190.8" y="970" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">18 · 4%</text>
-<rect x="23" y="979" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="979" width="7.2431654676259" height="6" rx="3" fill="#b794ff"/>
+<rect x="23" y="979" width="167.8" height="6" rx="3" fill="#2a2a2a"/><rect x="23" y="979" width="7.140425531914894" height="6" rx="3" fill="#b794ff"/>
 <line x1="23" y1="994" x2="190.8" y2="994" stroke="#262626"/>
 <text x="23" y="1013" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">Comments written</text>
 <text x="190.8" y="1013" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="end">77</text>
 <rect x="224.8" y="809" width="494.2" height="214" rx="16" fill="#121212" stroke="#262626"/>
-<text x="246.8" y="839" font-size="11" fill="#b794ff" font-weight="700" text-anchor="start" letter-spacing="1.1">310 CONTRIBUTIONS IN THE LAST YEAR</text>
+<text x="246.8" y="839" font-size="11" fill="#b794ff" font-weight="700" text-anchor="start" letter-spacing="1.1">314 CONTRIBUTIONS IN THE LAST YEAR</text>
 <text x="600" y="839" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">Less</text>
 <rect x="608" y="830" width="9" height="9" rx="2" fill="#1f2523"/>
 <rect x="619" y="830" width="9" height="9" rx="2" fill="#0e4f35"/>
@@ -525,7 +525,7 @@
 <rect x="688.5" y="884.5" width="6.5" height="6.5" rx="1.8" fill="#1fb870"/>
 <rect x="688.5" y="893.0" width="6.5" height="6.5" rx="1.8" fill="#12804f"/>
 <rect x="688.5" y="901.5" width="6.5" height="6.5" rx="1.8" fill="#0e4f35"/>
-<text x="289.3" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Dec</text><text x="289.3" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">15</text><text x="323.2" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Jan</text><text x="323.2" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="357.2" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Feb</text><text x="357.2" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">3</text><text x="391.2" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Mar</text><text x="391.2" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">12</text><text x="433.7" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Apr</text><text x="433.7" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="467.7" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">May</text><text x="467.7" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">3</text><text x="510.1" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Jun</text><text x="510.1" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">3</text><text x="544.1" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Jul</text><text x="544.1" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">23</text><text x="578.1" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Aug</text><text x="578.1" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="620.6" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Sep</text><text x="620.6" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="654.5" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Oct</text><text x="654.5" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">155</text><text x="688.5" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Nov</text><text x="688.5" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">73</text>
+<text x="289.3" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Dec</text><text x="289.3" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">15</text><text x="323.2" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Jan</text><text x="323.2" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="357.2" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Feb</text><text x="357.2" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">3</text><text x="391.2" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Mar</text><text x="391.2" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">12</text><text x="433.7" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Apr</text><text x="433.7" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="467.7" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">May</text><text x="467.7" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">3</text><text x="510.1" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Jun</text><text x="510.1" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">3</text><text x="544.1" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Jul</text><text x="544.1" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">23</text><text x="578.1" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Aug</text><text x="578.1" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="620.6" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Sep</text><text x="620.6" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">0</text><text x="654.5" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Oct</text><text x="654.5" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">155</text><text x="688.5" y="932.4603773584905" font-size="10" fill="#9a9a9a" font-weight="400" text-anchor="start">Nov</text><text x="688.5" y="945.4603773584905" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="start">77</text>
 <line x1="246.8" x2="697" y1="959" y2="959" stroke="#262626"/>
 <text x="246.8" y="989" text-anchor="start"><tspan font-size="22" font-weight="700" fill="#fbbf24">7</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a"> days</tspan></text>
 <text x="246.8" y="1007" font-size="9.5" fill="#6a6a6a" font-weight="700" text-anchor="start" letter-spacing="1">CURRENT STREAK</text>
@@ -539,10 +539,10 @@
 <text x="23" y="1065" font-size="11" fill="#34f5a0" font-weight="700" text-anchor="start" letter-spacing="1.1">ACTIVITY OVERVIEW</text>
 <line x1="142.2" y1="1107" x2="142.2" y2="1235" stroke="#34f5a0" stroke-opacity="0.75" stroke-width="1.6"/>
 <line x1="78.19999999999999" y1="1171" x2="206.2" y2="1171" stroke="#34f5a0" stroke-opacity="0.75" stroke-width="1.6"/>
-<polygon points="142.2,1167.7 148.1,1171.0 142.2,1180.1 84.2,1171.0" fill="#34f5a0" fill-opacity="0.28" stroke="#34f5a0" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="142.2,1167.7 148.0,1171.0 142.2,1180.4 84.2,1171.0" fill="#34f5a0" fill-opacity="0.28" stroke="#34f5a0" stroke-width="1.6" stroke-linejoin="round"/>
 <circle cx="142.2" cy="1167.7" r="3.8" fill="#34f5a0" stroke="#ffffff" stroke-width="1.6"/>
-<circle cx="148.1" cy="1171.0" r="3.8" fill="#34f5a0" stroke="#ffffff" stroke-width="1.6"/>
-<circle cx="142.2" cy="1180.1" r="3.8" fill="#34f5a0" stroke="#ffffff" stroke-width="1.6"/>
+<circle cx="148.0" cy="1171.0" r="3.8" fill="#34f5a0" stroke="#ffffff" stroke-width="1.6"/>
+<circle cx="142.2" cy="1180.4" r="3.8" fill="#34f5a0" stroke="#ffffff" stroke-width="1.6"/>
 <circle cx="84.2" cy="1171.0" r="3.8" fill="#34f5a0" stroke="#ffffff" stroke-width="1.6"/>
 <text x="142.2" y="1081" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">4%</text>
 <text x="142.2" y="1096" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="middle">Code review</text>
@@ -629,8 +629,8 @@
 <text x="697" y="1455" font-size="11.5" fill="#ffffff" font-weight="600" text-anchor="end">5h 01m · 4%</text>
 <rect x="1" y="1523" width="197.78" height="108" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="1553" font-size="11" fill="#38bdf8" font-weight="700" text-anchor="start" letter-spacing="1.1">PULL REQUESTS</text>
-<text x="23" y="1595" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">50</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="9">46 merged · 92%</tspan></text>
-<rect x="23" y="1611" width="153.78" height="7" rx="3.5" fill="#2a2a2a"/><rect x="23" y="1611" width="141.4776" height="7" rx="3.5" fill="#38bdf8"/>
+<text x="23" y="1595" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">52</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="9">48 merged · 92%</tspan></text>
+<rect x="23" y="1611" width="153.78" height="7" rx="3.5" fill="#2a2a2a"/><rect x="23" y="1611" width="141.95076923076925" height="7" rx="3.5" fill="#38bdf8"/>
 <rect x="210.78" y="1523" width="197.78" height="108" rx="16" fill="#121212" stroke="#262626"/>
 <text x="232.78" y="1553" font-size="11" fill="#ff5c9a" font-weight="700" text-anchor="start" letter-spacing="1.1">ISSUES</text>
 <text x="232.78" y="1595" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">32</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="9">9 closed · 28%</tspan></text>
@@ -724,9 +724,9 @@
 <rect x="593.1" y="2023.5" width="39.3" height="57.1" rx="3" fill="#b794ff"/>
 <text x="612.7" y="2016.5000000000002" font-size="11.5" fill="#ffffff" font-weight="700" text-anchor="middle">133</text>
 <text x="612.7" y="2147" font-size="11" fill="#6a6a6a" font-weight="400" text-anchor="middle">Oct</text>
-<rect x="649.3" y="2092.2" width="39.3" height="36.8" rx="3" fill="#34f5a0"/>
-<rect x="649.3" y="2072.8" width="39.3" height="18.0" rx="3" fill="#b794ff"/>
-<text x="668.9" y="2065.7631578947367" font-size="11.5" fill="#ffffff" font-weight="700" text-anchor="middle">70</text>
+<rect x="649.3" y="2089.1" width="39.3" height="39.9" rx="3" fill="#34f5a0"/>
+<rect x="649.3" y="2069.6" width="39.3" height="18.0" rx="3" fill="#b794ff"/>
+<text x="668.9" y="2062.6353383458645" font-size="11.5" fill="#ffffff" font-weight="700" text-anchor="middle">74</text>
 <text x="668.9" y="2147" font-size="11" fill="#6a6a6a" font-weight="400" text-anchor="middle">Nov</text>
 <rect x="1" y="2183" width="268.28" height="186" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="2213" font-size="11" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="1.1">BY WEEKDAY</text><text x="247.27999999999997" y="2213" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="end">Peak: Mon</text>
@@ -742,8 +742,8 @@
 <rect x="122.6" y="2265.8" width="25.0" height="67.2" rx="3" fill="#2f3340"/>
 <text x="135.1" y="2259.8" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">52</text>
 <text x="135.1" y="2349" font-size="10.5" fill="#6a6a6a" font-weight="400" text-anchor="middle">Thu</text>
-<rect x="154.7" y="2311.0" width="25.0" height="22.0" rx="3" fill="#2f3340"/>
-<text x="167.2" y="2305.0" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">17</text>
+<rect x="154.7" y="2305.9" width="25.0" height="27.1" rx="3" fill="#2f3340"/>
+<text x="167.2" y="2299.9" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">21</text>
 <text x="167.2" y="2349" font-size="10.5" fill="#6a6a6a" font-weight="400" text-anchor="middle">Fri</text>
 <rect x="186.7" y="2311.0" width="25.0" height="22.0" rx="3" fill="#2f3340"/>
 <text x="199.2" y="2305.0" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">17</text>
@@ -801,8 +801,8 @@
 <text x="639.6" y="2311.1" font-size="8.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">7</text>
 <rect x="649.4" y="2298.9" width="13.1" height="34.1" rx="3" fill="#2f3340"/>
 <text x="656.0" y="2292.9" font-size="8.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">15</text>
-<rect x="665.8" y="2280.8" width="13.1" height="52.2" rx="3" fill="#2f3340"/>
-<text x="672.4" y="2274.8" font-size="8.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">23</text>
+<rect x="665.8" y="2271.7" width="13.1" height="61.3" rx="3" fill="#2f3340"/>
+<text x="672.4" y="2265.7" font-size="8.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">27</text>
 <rect x="682.2" y="2301.2" width="13.1" height="31.8" rx="3" fill="#2f3340"/>
 <text x="688.8" y="2295.2" font-size="8.5" fill="#9a9a9a" font-weight="400" text-anchor="middle">14</text>
 <text x="688.8" y="2349" font-size="10.5" fill="#6a6a6a" font-weight="400" text-anchor="middle">23</text>
