@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T21:42:08.507Z",
+ "updated": "2026-11-06T01:56:14.350Z",
  "login": "AnanaxLP",
- "unlocked": 47,
+ "unlocked": 46,
  "total": 134,
  "achievementsUnlocked": 22,
  "achievementsTotal": 35,
@@ -22,21 +22,21 @@
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 5,
-  "commits": 315,
-  "nightCommits": 29,
+  "commits": 301,
+  "nightCommits": 21,
   "earlyCommits": 1,
-  "weekendCommits": 74,
+  "weekendCommits": 71,
   "aiCommits": 96,
-  "linesAdded": 305199,
-  "linesDeleted": 15409,
-  "handLines": 94966,
+  "linesAdded": 251463,
+  "linesDeleted": 13211,
+  "handLines": 41230,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
-  "languages": 15,
-  "topLanguageLines": 212902,
+  "languages": 14,
+  "topLanguageLines": 205769,
   "maxCommitsPerDay": 34,
-  "activeDays": 114,
+  "activeDays": 115,
   "longestStreak": 11,
   "reviews": 18,
   "foreignMergedPRs": 40,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 315,
+   "value": 301,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.63
+   "progress": 0.602
   },
   {
    "id": "streak-keeper",
@@ -171,7 +171,7 @@
    "unit": "active days",
    "format": null,
    "description": "Days with at least one contribution",
-   "value": 114,
+   "value": 115,
    "tiers": [
     25,
     100,
@@ -182,7 +182,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.456
+   "progress": 0.46
   },
   {
    "id": "night-owl",
@@ -214,7 +214,7 @@
    "unit": "night commits",
    "format": null,
    "description": "Commits between 0:00 and 5:00",
-   "value": 29,
+   "value": 21,
    "tiers": [
     50,
     250,
@@ -223,7 +223,7 @@
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.58
+   "progress": 0.42
   },
   {
    "id": "early-bird",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 74,
+   "value": 71,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.74
+   "progress": 0.71
   },
   {
    "id": "commit-storm",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 305199,
+   "value": 251463,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.610398
+   "progress": 0.502926
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 15409,
+   "value": 13211,
    "tiers": [
     1000,
     5000,
@@ -824,7 +824,7 @@
    "level": 3,
    "next": 50000,
    "maxed": false,
-   "progress": 0.30818
+   "progress": 0.26422
   },
   {
    "id": "polyglot",
@@ -856,7 +856,7 @@
    "unit": "languages",
    "format": null,
    "description": "Different languages across your repos",
-   "value": 15,
+   "value": 14,
    "tiers": [
     3,
     5,
@@ -868,7 +868,7 @@
    "level": 4,
    "next": 20,
    "maxed": false,
-   "progress": 0.75
+   "progress": 0.7
   },
   {
    "id": "deep-diver",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 212902,
+   "value": 205769,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.851608
+   "progress": 0.823076
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 94966,
+   "value": 41230,
    "tiers": [
     10000,
     50000,
@@ -999,10 +999,10 @@
     500000,
     1000000
    ],
-   "level": 2,
-   "next": 100000,
+   "level": 1,
+   "next": 50000,
    "maxed": false,
-   "progress": 0.94966
+   "progress": 0.8246
   },
   {
    "id": "pair-programmer",
@@ -1494,14 +1494,14 @@
    "unit": "languages",
    "format": null,
    "description": "Code in 50 different languages",
-   "value": 15,
+   "value": 14,
    "tiers": [
     50
    ],
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.3
+   "progress": 0.28
   },
   {
    "id": "grandmaster",
