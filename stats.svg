@@ -649,12 +649,12 @@
 <text x="407.88" y="1715" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">10</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> own</tspan><tspan font-size="32" font-weight="700" fill="#ffffff" dx="26">5</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> contributed to</tspan></text>
 <rect x="1" y="1763" width="353" height="190" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="1793" font-size="11" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="1.1">LANGUAGES · BY CODE</text><text x="332" y="1793" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="end">Top: Dart</text>
-<rect x="23" y="1815" width="206.87229017187389" height="11" rx="5.5" fill="#00B4AB"/>
-<rect x="233.87229017187389" y="1815" width="57.28352956279208" height="11" rx="5.5" fill="#7355dd"/>
-<rect x="295.15581973466595" y="1815" width="11.455115162895076" height="11" rx="5.5" fill="#e34c26"/>
-<rect x="310.61093489756104" y="1815" width="7.426528428279571" height="11" rx="5.5" fill="#8b949e"/>
-<rect x="322.03746332584063" y="1815" width="6" height="11" rx="5.5" fill="#f1e05a"/>
-<rect x="332.03746332584063" y="1815" width="6" height="11" rx="5.5" fill="#aace60"/>
+<rect x="23" y="1815" width="206.87227125672393" height="11" rx="5.5" fill="#00B4AB"/>
+<rect x="233.87227125672393" y="1815" width="57.283524325132895" height="11" rx="5.5" fill="#7355dd"/>
+<rect x="295.1557955818568" y="1815" width="11.455140539919284" height="11" rx="5.5" fill="#e34c26"/>
+<rect x="310.6109361217761" y="1815" width="7.426527749242767" height="11" rx="5.5" fill="#8b949e"/>
+<rect x="322.0374638710189" y="1815" width="6" height="11" rx="5.5" fill="#f1e05a"/>
+<rect x="332.0374638710189" y="1815" width="6" height="11" rx="5.5" fill="#aace60"/>
 <circle cx="27" cy="1859" r="4.5" fill="#00B4AB"/>
 <text x="38" y="1863" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">Dart</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  72%</tspan></text>
 <circle cx="181.5" cy="1859" r="4.5" fill="#7355dd"/>
