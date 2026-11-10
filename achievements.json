@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T17:58:49.052Z",
+ "updated": "2026-11-10T01:00:18.366Z",
  "login": "AnanaxLP",
- "unlocked": 49,
+ "unlocked": 47,
  "total": 134,
  "achievementsUnlocked": 22,
  "achievementsTotal": 35,
@@ -16,33 +16,33 @@
  "metrics": {
   "followers": 1,
   "issuesClosed": 9,
-  "prsMerged": 55,
+  "prsMerged": 56,
   "ownRepos": 5,
   "stars": 1,
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 5,
-  "commits": 344,
-  "nightCommits": 32,
+  "commits": 328,
+  "nightCommits": 23,
   "earlyCommits": 1,
-  "weekendCommits": 95,
+  "weekendCommits": 92,
   "aiCommits": 98,
-  "linesAdded": 311083,
-  "linesDeleted": 15976,
-  "handLines": 100144,
+  "linesAdded": 256873,
+  "linesDeleted": 13564,
+  "handLines": 45934,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
-  "languages": 15,
-  "topLanguageLines": 217007,
+  "languages": 14,
+  "topLanguageLines": 210196,
   "maxCommitsPerDay": 34,
   "activeDays": 118,
   "longestStreak": 11,
   "reviews": 19,
-  "foreignMergedPRs": 48,
+  "foreignMergedPRs": 49,
   "monsterPRs": 20,
   "cleanSweeps": 2,
-  "quickdraws": 20,
+  "quickdraws": 21,
   "wakaHours": 134.80972222222223,
   "marathonHours": 3.553611111111111,
   "consistentDays": 6
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 344,
+   "value": 328,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.688
+   "progress": 0.656
   },
   {
    "id": "streak-keeper",
@@ -214,7 +214,7 @@
    "unit": "night commits",
    "format": null,
    "description": "Commits between 0:00 and 5:00",
-   "value": 32,
+   "value": 23,
    "tiers": [
     50,
     250,
@@ -223,7 +223,7 @@
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.64
+   "progress": 0.46
   },
   {
    "id": "early-bird",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 95,
+   "value": 92,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.95
+   "progress": 0.92
   },
   {
    "id": "commit-storm",
@@ -380,7 +380,7 @@
    "unit": "merged PRs",
    "format": null,
    "description": "Merged pull requests",
-   "value": 55,
+   "value": 56,
    "tiers": [
     1,
     10,
@@ -391,7 +391,7 @@
    "level": 3,
    "next": 200,
    "maxed": false,
-   "progress": 0.275
+   "progress": 0.28
   },
   {
    "id": "reviewer",
@@ -555,7 +555,7 @@
    "unit": "merged PRs",
    "format": null,
    "description": "Merged pull requests in repos you do not own",
-   "value": 48,
+   "value": 49,
    "tiers": [
     1,
     5,
@@ -565,7 +565,7 @@
    "level": 3,
    "next": 100,
    "maxed": false,
-   "progress": 0.48
+   "progress": 0.49
   },
   {
    "id": "quickdraw",
@@ -598,7 +598,7 @@
    "unit": "quick closes",
    "format": null,
    "description": "Issues or PRs you closed within 5 minutes",
-   "value": 20,
+   "value": 21,
    "tiers": [
     1,
     10,
@@ -607,7 +607,7 @@
    "level": 2,
    "next": 50,
    "maxed": false,
-   "progress": 0.4
+   "progress": 0.42
   },
   {
    "id": "stargazer",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 311083,
+   "value": 256873,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.622166
+   "progress": 0.513746
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 15976,
+   "value": 13564,
    "tiers": [
     1000,
     5000,
@@ -824,7 +824,7 @@
    "level": 3,
    "next": 50000,
    "maxed": false,
-   "progress": 0.31952
+   "progress": 0.27128
   },
   {
    "id": "polyglot",
@@ -856,7 +856,7 @@
    "unit": "languages",
    "format": null,
    "description": "Different languages across your repos",
-   "value": 15,
+   "value": 14,
    "tiers": [
     3,
     5,
@@ -868,7 +868,7 @@
    "level": 4,
    "next": 20,
    "maxed": false,
-   "progress": 0.75
+   "progress": 0.7
   },
   {
    "id": "deep-diver",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 217007,
+   "value": 210196,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.868028
+   "progress": 0.840784
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 100144,
+   "value": 45934,
    "tiers": [
     10000,
     50000,
@@ -999,10 +999,10 @@
     500000,
     1000000
    ],
-   "level": 3,
-   "next": 250000,
+   "level": 1,
+   "next": 50000,
    "maxed": false,
-   "progress": 0.400576
+   "progress": 0.91868
   },
   {
    "id": "pair-programmer",
@@ -1494,14 +1494,14 @@
    "unit": "languages",
    "format": null,
    "description": "Code in 50 different languages",
-   "value": 15,
+   "value": 14,
    "tiers": [
     50
    ],
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.3
+   "progress": 0.28
   },
   {
    "id": "grandmaster",
