@@ -652,16 +652,16 @@
 <text x="407.88" y="1715" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">10</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> own</tspan><tspan font-size="32" font-weight="700" fill="#ffffff" dx="26">5</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> contributed to</tspan></text>
 <rect x="1" y="1763" width="353" height="190" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="1793" font-size="11" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="1.1">LANGUAGES · BY CODE</text><text x="332" y="1793" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="end">Top: Dart</text>
-<rect x="23" y="1815" width="206.88548601681586" height="11" rx="5.5" fill="#00B4AB"/>
-<rect x="233.88548601681586" y="1815" width="57.27438083272608" height="11" rx="5.5" fill="#7355dd"/>
-<rect x="295.1598668495419" y="1815" width="11.453206410361542" height="11" rx="5.5" fill="#e34c26"/>
-<rect x="310.61307325990344" y="1815" width="7.425342340333588" height="11" rx="5.5" fill="#8b949e"/>
-<rect x="322.03841560023704" y="1815" width="6" height="11" rx="5.5" fill="#f1e05a"/>
-<rect x="332.03841560023704" y="1815" width="6" height="11" rx="5.5" fill="#aace60"/>
+<rect x="23" y="1815" width="208.0127395771337" height="11" rx="5.5" fill="#00B4AB"/>
+<rect x="235.0127395771337" y="1815" width="56.011621860731246" height="11" rx="5.5" fill="#7355dd"/>
+<rect x="295.0243614378649" y="1815" width="11.51577069349431" height="11" rx="5.5" fill="#e34c26"/>
+<rect x="310.5401321313592" y="1815" width="7.4658006815680205" height="11" rx="5.5" fill="#8b949e"/>
+<rect x="322.0059328129272" y="1815" width="6" height="11" rx="5.5" fill="#f1e05a"/>
+<rect x="332.0059328129272" y="1815" width="6" height="11" rx="5.5" fill="#aace60"/>
 <circle cx="27" cy="1859" r="4.5" fill="#00B4AB"/>
 <text x="38" y="1863" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">Dart</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  72%</tspan></text>
 <circle cx="181.5" cy="1859" r="4.5" fill="#7355dd"/>
-<text x="192.5" y="1863" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">C#</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  20%</tspan></text>
+<text x="192.5" y="1863" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">C#</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  19%</tspan></text>
 <circle cx="27" cy="1889" r="4.5" fill="#e34c26"/>
 <text x="38" y="1893" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">HTML</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  4%</tspan></text>
 <circle cx="181.5" cy="1889" r="4.5" fill="#8b949e"/>
@@ -674,18 +674,18 @@
 <text x="388" y="1793" font-size="11" fill="#38bdf8" font-weight="700" text-anchor="start" letter-spacing="1.1">TOP REPOS BY COMMITS</text>
 <text x="388" y="1833" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">private repo 1</text>
 <rect x="506" y="1826" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1826" width="151" height="8" rx="4" fill="#38bdf8"/>
-<text x="697" y="1833" font-size="12" fill="#ffffff" font-weight="600" text-anchor="end">121</text>
+<text x="697" y="1833" font-size="12" fill="#ffffff" font-weight="600" text-anchor="end">123</text>
 <text x="388" y="1857" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">private repo 2</text>
-<rect x="506" y="1850" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1850" width="112.31404958677686" height="8" rx="4" fill="#38bdf8"/>
+<rect x="506" y="1850" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1850" width="110.48780487804878" height="8" rx="4" fill="#38bdf8"/>
 <text x="697" y="1857" font-size="12" fill="#ffffff" font-weight="600" text-anchor="end">90</text>
 <text x="388" y="1881" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">private repo 3</text>
-<rect x="506" y="1874" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1874" width="42.429752066115704" height="8" rx="4" fill="#38bdf8"/>
+<rect x="506" y="1874" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1874" width="41.739837398373986" height="8" rx="4" fill="#38bdf8"/>
 <text x="697" y="1881" font-size="12" fill="#ffffff" font-weight="600" text-anchor="end">34</text>
 <text x="388" y="1905" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">develop</text>
-<rect x="506" y="1898" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1898" width="34.94214876033058" height="8" rx="4" fill="#38bdf8"/>
+<rect x="506" y="1898" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1898" width="34.3739837398374" height="8" rx="4" fill="#38bdf8"/>
 <text x="697" y="1905" font-size="12" fill="#ffffff" font-weight="600" text-anchor="end">28</text>
 <text x="388" y="1929" font-size="12.5" fill="#e6e6e6" font-weight="400" text-anchor="start">private repo 4</text>
-<rect x="506" y="1922" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1922" width="23.710743801652892" height="8" rx="4" fill="#38bdf8"/>
+<rect x="506" y="1922" width="151" height="8" rx="4" fill="#2a2a2a"/><rect x="506" y="1922" width="23.325203252032523" height="8" rx="4" fill="#38bdf8"/>
 <text x="697" y="1929" font-size="12" fill="#ffffff" font-weight="600" text-anchor="end">19</text>
 <rect x="1" y="1965" width="718" height="206" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="1995" font-size="11" fill="#34f5a0" font-weight="700" text-anchor="start" letter-spacing="1.1">COMMITS PER MONTH</text>
