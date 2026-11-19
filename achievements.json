@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:57:58.471Z",
+ "updated": "2026-11-19T19:18:25.955Z",
  "login": "AnanaxLP",
  "unlocked": 49,
  "total": 134,
@@ -22,21 +22,21 @@
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 6,
-  "commits": 358,
-  "nightCommits": 32,
+  "commits": 371,
+  "nightCommits": 31,
   "earlyCommits": 1,
-  "weekendCommits": 96,
-  "aiCommits": 98,
-  "linesAdded": 317910,
-  "linesDeleted": 16248,
-  "handLines": 106971,
+  "weekendCommits": 93,
+  "aiCommits": 103,
+  "linesAdded": 327367,
+  "linesDeleted": 16390,
+  "handLines": 111074,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 16,
-  "topLanguageLines": 221758,
+  "topLanguageLines": 228355,
   "maxCommitsPerDay": 34,
-  "activeDays": 125,
+  "activeDays": 124,
   "longestStreak": 13,
   "reviews": 19,
   "foreignMergedPRs": 52,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 358,
+   "value": 371,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.716
+   "progress": 0.742
   },
   {
    "id": "streak-keeper",
@@ -171,7 +171,7 @@
    "unit": "active days",
    "format": null,
    "description": "Days with at least one contribution",
-   "value": 125,
+   "value": 124,
    "tiers": [
     25,
     100,
@@ -182,7 +182,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.5
+   "progress": 0.496
   },
   {
    "id": "night-owl",
@@ -214,7 +214,7 @@
    "unit": "night commits",
    "format": null,
    "description": "Commits between 0:00 and 5:00",
-   "value": 32,
+   "value": 31,
    "tiers": [
     50,
     250,
@@ -223,7 +223,7 @@
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.64
+   "progress": 0.62
   },
   {
    "id": "early-bird",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 96,
+   "value": 93,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.96
+   "progress": 0.93
   },
   {
    "id": "commit-storm",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 317910,
+   "value": 327367,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.63582
+   "progress": 0.654734
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 16248,
+   "value": 16390,
    "tiers": [
     1000,
     5000,
@@ -824,7 +824,7 @@
    "level": 3,
    "next": 50000,
    "maxed": false,
-   "progress": 0.32496
+   "progress": 0.3278
   },
   {
    "id": "polyglot",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 221758,
+   "value": 228355,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.887032
+   "progress": 0.91342
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 106971,
+   "value": 111074,
    "tiers": [
     10000,
     50000,
@@ -1002,7 +1002,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.427884
+   "progress": 0.444296
   },
   {
    "id": "pair-programmer",
@@ -1036,7 +1036,7 @@
    "unit": "AI commits",
    "format": null,
    "description": "Commits with an AI co-author",
-   "value": 98,
+   "value": 103,
    "tiers": [
     10,
     50,
@@ -1046,7 +1046,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.392
+   "progress": 0.412
   },
   {
    "id": "coding-time",
