@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:18:25.955Z",
+ "updated": "2026-11-20T01:37:52.522Z",
  "login": "AnanaxLP",
  "unlocked": 49,
  "total": 134,
@@ -22,19 +22,19 @@
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 6,
-  "commits": 371,
+  "commits": 372,
   "nightCommits": 31,
   "earlyCommits": 1,
   "weekendCommits": 93,
   "aiCommits": 103,
-  "linesAdded": 327367,
-  "linesDeleted": 16390,
-  "handLines": 111074,
+  "linesAdded": 330096,
+  "linesDeleted": 16639,
+  "handLines": 113803,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 16,
-  "topLanguageLines": 228355,
+  "topLanguageLines": 230258,
   "maxCommitsPerDay": 34,
   "activeDays": 124,
   "longestStreak": 13,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 371,
+   "value": 372,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.742
+   "progress": 0.744
   },
   {
    "id": "streak-keeper",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 327367,
+   "value": 330096,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.654734
+   "progress": 0.660192
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 16390,
+   "value": 16639,
    "tiers": [
     1000,
     5000,
@@ -824,7 +824,7 @@
    "level": 3,
    "next": 50000,
    "maxed": false,
-   "progress": 0.3278
+   "progress": 0.33278
   },
   {
    "id": "polyglot",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 228355,
+   "value": 230258,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.91342
+   "progress": 0.921032
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 111074,
+   "value": 113803,
    "tiers": [
     10000,
     50000,
@@ -1002,7 +1002,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.444296
+   "progress": 0.455212
   },
   {
    "id": "pair-programmer",
