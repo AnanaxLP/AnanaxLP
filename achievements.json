@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T09:00:44.861Z",
+ "updated": "2026-11-22T16:54:36.360Z",
  "login": "AnanaxLP",
- "unlocked": 48,
+ "unlocked": 49,
  "total": 134,
  "achievementsUnlocked": 22,
  "achievementsTotal": 35,
@@ -22,21 +22,21 @@
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 6,
-  "commits": 360,
-  "nightCommits": 22,
+  "commits": 380,
+  "nightCommits": 31,
   "earlyCommits": 1,
-  "weekendCommits": 91,
-  "aiCommits": 103,
-  "linesAdded": 278089,
-  "linesDeleted": 14756,
-  "handLines": 61796,
+  "weekendCommits": 98,
+  "aiCommits": 105,
+  "linesAdded": 334831,
+  "linesDeleted": 17254,
+  "handLines": 118506,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
-  "languages": 15,
-  "topLanguageLines": 227534,
+  "languages": 16,
+  "topLanguageLines": 233561,
   "maxCommitsPerDay": 34,
-  "activeDays": 126,
+  "activeDays": 127,
   "longestStreak": 13,
   "reviews": 20,
   "foreignMergedPRs": 53,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 360,
+   "value": 380,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.72
+   "progress": 0.76
   },
   {
    "id": "streak-keeper",
@@ -171,7 +171,7 @@
    "unit": "active days",
    "format": null,
    "description": "Days with at least one contribution",
-   "value": 126,
+   "value": 127,
    "tiers": [
     25,
     100,
@@ -182,7 +182,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.504
+   "progress": 0.508
   },
   {
    "id": "night-owl",
@@ -214,7 +214,7 @@
    "unit": "night commits",
    "format": null,
    "description": "Commits between 0:00 and 5:00",
-   "value": 22,
+   "value": 31,
    "tiers": [
     50,
     250,
@@ -223,7 +223,7 @@
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.44
+   "progress": 0.62
   },
   {
    "id": "early-bird",
@@ -296,7 +296,7 @@
    "unit": "weekend commits",
    "format": null,
    "description": "Commits on Saturdays and Sundays",
-   "value": 91,
+   "value": 98,
    "tiers": [
     25,
     100,
@@ -306,7 +306,7 @@
    "level": 1,
    "next": 100,
    "maxed": false,
-   "progress": 0.91
+   "progress": 0.98
   },
   {
    "id": "commit-storm",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 278089,
+   "value": 334831,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.556178
+   "progress": 0.669662
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 14756,
+   "value": 17254,
    "tiers": [
     1000,
     5000,
@@ -824,7 +824,7 @@
    "level": 3,
    "next": 50000,
    "maxed": false,
-   "progress": 0.29512
+   "progress": 0.34508
   },
   {
    "id": "polyglot",
@@ -856,7 +856,7 @@
    "unit": "languages",
    "format": null,
    "description": "Different languages across your repos",
-   "value": 15,
+   "value": 16,
    "tiers": [
     3,
     5,
@@ -868,7 +868,7 @@
    "level": 4,
    "next": 20,
    "maxed": false,
-   "progress": 0.75
+   "progress": 0.8
   },
   {
    "id": "deep-diver",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 227534,
+   "value": 233561,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.910136
+   "progress": 0.934244
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 61796,
+   "value": 118506,
    "tiers": [
     10000,
     50000,
@@ -999,10 +999,10 @@
     500000,
     1000000
    ],
-   "level": 2,
-   "next": 100000,
+   "level": 3,
+   "next": 250000,
    "maxed": false,
-   "progress": 0.61796
+   "progress": 0.474024
   },
   {
    "id": "pair-programmer",
@@ -1036,7 +1036,7 @@
    "unit": "AI commits",
    "format": null,
    "description": "Commits with an AI co-author",
-   "value": 103,
+   "value": 105,
    "tiers": [
     10,
     50,
@@ -1046,7 +1046,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.412
+   "progress": 0.42
   },
   {
    "id": "coding-time",
@@ -1494,14 +1494,14 @@
    "unit": "languages",
    "format": null,
    "description": "Code in 50 different languages",
-   "value": 15,
+   "value": 16,
    "tiers": [
     50
    ],
    "level": 0,
    "next": 50,
    "maxed": false,
-   "progress": 0.3
+   "progress": 0.32
   },
   {
    "id": "grandmaster",
