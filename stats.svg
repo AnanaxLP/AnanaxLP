@@ -117,12 +117,12 @@
 <rect x="303.66666666666663" y="706" width="154.66666666666669" height="5" rx="2.5" fill="#2a2a2a"/><rect x="303.66666666666663" y="706" width="53.37237333333334" height="5" rx="2.5" fill="#ff5c9a"/>
 <text x="303.66666666666663" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="start">17k / 50k lines</text><text x="458.3333333333333" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">34%</text>
 <rect x="478.3333333333333" y="675" width="224.66666666666666" height="62" rx="13" fill="#19211a" stroke="#3fb950" stroke-opacity="1" stroke-width="1.3"/><path d="M484.3333333333333 681h5v1.4h-5zM484.3333333333333 681v5h1.4v-5zM697 681h-5v1.4h5zM697 681v5h-1.4v-5zM484.3333333333333 731h5v-1.4h-5zM484.3333333333333 731v-5h1.4v5zM697 731h-5v-1.4h5zM697 731v-5h-1.4v5z" fill="#3fb950" fill-opacity="0.85"/>
-<circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#2a2a2a" stroke-width="5"/><circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#34f5a0" stroke-width="5" stroke-linecap="round" stroke-dasharray="81.2 106.8" stroke-dashoffset="0.0" transform="rotate(-90 507.3333333333333 706)"/>
+<circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#2a2a2a" stroke-width="5"/><circle cx="507.3333333333333" cy="706" r="17" fill="none" stroke="#34f5a0" stroke-width="5" stroke-linecap="round" stroke-dasharray="81.4 106.8" stroke-dashoffset="0.0" transform="rotate(-90 507.3333333333333 706)"/>
 <g shape-rendering="crispEdges"><rect x="504.66" y="701.98" width="5.38" height="1.37" fill="#ff5c5c"/><rect x="503.32" y="703.32" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="703.32" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="703.32" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="499.30" y="704.66" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="501.98" y="704.66" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="704.66" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="704.66" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="512.69" y="704.66" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="499.30" y="706.00" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="501.98" y="706.00" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="706.00" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="706.00" width="2.71" height="1.37" fill="#ff5c5c"/><rect x="512.69" y="706.00" width="2.71" height="1.37" fill="#9aa0a6"/><rect x="503.32" y="707.34" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="707.34" width="5.38" height="1.37" fill="#f6efe6"/><rect x="510.01" y="707.34" width="1.37" height="1.37" fill="#ff5c5c"/><rect x="504.66" y="708.68" width="5.38" height="1.37" fill="#ff5c5c"/></g><circle cx="519.9" cy="718.6" r="6.5" fill="#0b0b0b" stroke="#34f5a0" stroke-width="1.3"/><text x="519.9133333333333" y="721.98" font-size="9" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
 <text x="534.3333333333333" y="697" font-size="12.5" fill="#ffffff" font-weight="700" text-anchor="start">Committer</text>
 <rect x="644" y="684" width="45" height="17" rx="8.5" fill="#34f5a0" fill-opacity="0.11" stroke="#34f5a0" stroke-opacity="0.5"/><text x="666.5" y="696" font-size="9.5" fill="#34f5a0" font-weight="700" text-anchor="middle">2 / 6</text>
-<rect x="534.3333333333333" y="706" width="154.66666666666674" height="5" rx="2.5" fill="#2a2a2a"/><rect x="534.3333333333333" y="706" width="117.54666666666672" height="5" rx="2.5" fill="#34f5a0"/>
-<text x="534.3333333333333" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="start">380 / 500 commits</text><text x="689" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">76%</text>
+<rect x="534.3333333333333" y="706" width="154.66666666666674" height="5" rx="2.5" fill="#2a2a2a"/><rect x="534.3333333333333" y="706" width="117.85600000000007" height="5" rx="2.5" fill="#34f5a0"/>
+<text x="534.3333333333333" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="start">381 / 500 commits</text><text x="689" y="726" font-size="10.5" fill="#9a9a9a" font-weight="400" text-anchor="end">76%</text>
 <rect x="214" y="751" width="292" height="26" rx="13" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.6"/>
 <text x="360" y="768.5" font-size="11.5" fill="#38bdf8" font-weight="700" text-anchor="middle">See all 35 achievements on the website  →</text>
 <rect x="1" y="809" width="211.8" height="214" rx="16" fill="#121212" stroke="#262626"/>
@@ -649,12 +649,12 @@
 <text x="407.88" y="1715" text-anchor="start"><tspan font-size="32" font-weight="700" fill="#ffffff">10</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> own</tspan><tspan font-size="32" font-weight="700" fill="#ffffff" dx="26">6</tspan><tspan font-size="12" font-weight="400" fill="#9a9a9a" dx="6"> contributed to</tspan></text>
 <rect x="1" y="1763" width="353" height="190" rx="16" fill="#121212" stroke="#262626"/>
 <text x="23" y="1793" font-size="11" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="1.1">LANGUAGES · BY CODE</text><text x="332" y="1793" font-size="12" fill="#9a9a9a" font-weight="400" text-anchor="end">Top: Dart</text>
-<rect x="23" y="1815" width="206.8854292768201" height="11" rx="5.5" fill="#00B4AB"/>
-<rect x="233.8854292768201" y="1815" width="57.274365124770014" height="11" rx="5.5" fill="#7355dd"/>
-<rect x="295.15979440159015" y="1815" width="11.453282529784873" height="11" rx="5.5" fill="#e34c26"/>
-<rect x="310.613076931375" y="1815" width="7.4253403038741865" height="11" rx="5.5" fill="#8b949e"/>
-<rect x="322.0384172352492" y="1815" width="6" height="11" rx="5.5" fill="#f1e05a"/>
-<rect x="332.0384172352492" y="1815" width="6" height="11" rx="5.5" fill="#aace60"/>
+<rect x="23" y="1815" width="206.88537253685547" height="11" rx="5.5" fill="#00B4AB"/>
+<rect x="233.88537253685547" y="1815" width="57.27434941682256" height="11" rx="5.5" fill="#7355dd"/>
+<rect x="295.15972195367806" y="1815" width="11.453358649166452" height="11" rx="5.5" fill="#e34c26"/>
+<rect x="310.6130806028445" y="1815" width="7.425338267415903" height="11" rx="5.5" fill="#8b949e"/>
+<rect x="322.0384188702604" y="1815" width="6" height="11" rx="5.5" fill="#f1e05a"/>
+<rect x="332.0384188702604" y="1815" width="6" height="11" rx="5.5" fill="#aace60"/>
 <circle cx="27" cy="1859" r="4.5" fill="#00B4AB"/>
 <text x="38" y="1863" text-anchor="start"><tspan font-size="13" font-weight="600" fill="#ffffff">Dart</tspan><tspan font-size="13" font-weight="400" fill="#9a9a9a">  72%</tspan></text>
 <circle cx="181.5" cy="1859" r="4.5" fill="#7355dd"/>
