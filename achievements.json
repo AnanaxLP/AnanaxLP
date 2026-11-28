@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T19:19:21.579Z",
+ "updated": "2026-11-28T02:24:14.651Z",
  "login": "AnanaxLP",
- "unlocked": 49,
+ "unlocked": 50,
  "total": 134,
  "achievementsUnlocked": 22,
  "achievementsTotal": 35,
@@ -22,22 +22,22 @@
   "forks": 0,
   "maxRepoStars": 1,
   "foreignRepos": 6,
-  "commits": 386,
+  "commits": 388,
   "nightCommits": 32,
   "earlyCommits": 1,
   "weekendCommits": 98,
   "aiCommits": 105,
-  "linesAdded": 334510,
-  "linesDeleted": 18908,
-  "handLines": 118185,
+  "linesAdded": 335321,
+  "linesDeleted": 19059,
+  "handLines": 118996,
   "unicornCommits": 0,
   "christmasCommits": 0,
   "newYearCommits": 0,
   "languages": 16,
-  "topLanguageLines": 233337,
+  "topLanguageLines": 233903,
   "maxCommitsPerDay": 34,
-  "activeDays": 131,
-  "longestStreak": 13,
+  "activeDays": 132,
+  "longestStreak": 14,
   "reviews": 20,
   "foreignMergedPRs": 56,
   "monsterPRs": 23,
@@ -79,7 +79,7 @@
    "unit": "commits",
    "format": null,
    "description": "Total commits you authored",
-   "value": 386,
+   "value": 388,
    "tiers": [
     10,
     100,
@@ -91,7 +91,7 @@
    "level": 2,
    "next": 500,
    "maxed": false,
-   "progress": 0.772
+   "progress": 0.776
   },
   {
    "id": "streak-keeper",
@@ -124,7 +124,7 @@
    "unit": "days",
    "format": null,
    "description": "Longest streak of consecutive active days",
-   "value": 13,
+   "value": 14,
    "tiers": [
     3,
     7,
@@ -134,10 +134,10 @@
     100,
     365
    ],
-   "level": 2,
-   "next": 14,
+   "level": 3,
+   "next": 30,
    "maxed": false,
-   "progress": 0.9285714285714286
+   "progress": 0.4666666666666667
   },
   {
    "id": "daily-grinder",
@@ -171,7 +171,7 @@
    "unit": "active days",
    "format": null,
    "description": "Days with at least one contribution",
-   "value": 131,
+   "value": 132,
    "tiers": [
     25,
     100,
@@ -182,7 +182,7 @@
    "level": 2,
    "next": 250,
    "maxed": false,
-   "progress": 0.524
+   "progress": 0.528
   },
   {
    "id": "night-owl",
@@ -765,7 +765,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you added",
-   "value": 334510,
+   "value": 335321,
    "tiers": [
     1000,
     10000,
@@ -779,7 +779,7 @@
    "level": 4,
    "next": 500000,
    "maxed": false,
-   "progress": 0.66902
+   "progress": 0.670642
   },
   {
    "id": "refactorer",
@@ -811,7 +811,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines of code you deleted",
-   "value": 18908,
+   "value": 19059,
    "tiers": [
     1000,
     5000,
@@ -824,7 +824,7 @@
    "level": 3,
    "next": 50000,
    "maxed": false,
-   "progress": 0.37816
+   "progress": 0.38118
   },
   {
    "id": "polyglot",
@@ -901,7 +901,7 @@
    "unit": "lines",
    "format": null,
    "description": "Estimated lines in your biggest language",
-   "value": 233337,
+   "value": 233903,
    "tiers": [
     10000,
     50000,
@@ -911,7 +911,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.933348
+   "progress": 0.935612
   },
   {
    "id": "repo-builder",
@@ -990,7 +990,7 @@
    "unit": "lines",
    "format": null,
    "description": "Lines you wrote yourself, without AI co-author",
-   "value": 118185,
+   "value": 118996,
    "tiers": [
     10000,
     50000,
@@ -1002,7 +1002,7 @@
    "level": 3,
    "next": 250000,
    "maxed": false,
-   "progress": 0.47274
+   "progress": 0.475984
   },
   {
    "id": "pair-programmer",
@@ -1416,14 +1416,14 @@
    "unit": "days",
    "format": null,
    "description": "A 365 day streak without a break",
-   "value": 13,
+   "value": 14,
    "tiers": [
     365
    ],
    "level": 0,
    "next": 365,
    "maxed": false,
-   "progress": 0.03561643835616438
+   "progress": 0.038356164383561646
   },
   {
    "id": "supernova",
